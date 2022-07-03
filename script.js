@@ -28,3 +28,4 @@ function reload() {
 }
 info();
 takeshot();
+alert("Done, scroll down");
